@@ -139,7 +139,6 @@ Data & code: https://github.com/AhmedMahrous00/nft_visual_analysis
   howpublished = {Unpublished manuscript},
   month        = {May},
   year         = {2025},
-  note         = {Code and data available at \url{https://github.com/AhmedMahrous00/nft_visual_analysis}}
 }
 
 ## Contact
