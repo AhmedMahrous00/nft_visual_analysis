@@ -120,8 +120,8 @@ python nft_analysis/correlation_features.py --correlations_input_csv outputs/exp
 ## 4. Expected Outputs
 After running all steps, the `outputs/` directory will contain:
 -   Extracted features (handcrafted and deep)
--   Model training results
--   Correlation analyses and other experimental results
+-   Handcrafted and Deep-learning models results
+-   Correlation analyses and factors explaining photorelevance
 
 
 ## 5. Citation
