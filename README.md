@@ -127,10 +127,20 @@ After running all steps, the `outputs/` directory will contain:
 
 
 ## 5. Citation
-If you use this code or data in your research, please cite our paper:
-```
-[Paper Citation Here - e.g., Author, A., Author, B. (Year). Paper Title. Journal/Conference.]
-```
+If you use this code or data, please cite:
+
+Ahmed Mahrous. 2025. _Controlling Collection Leakage to Reveal Genuine Aesthetic Effects in NFT Pricing_. Unpublished manuscript.  
+Data & code: https://github.com/AhmedMahrous00/nft_visual_analysis
+
+```bibtex
+@misc{Mahrous2025Controlling,
+  author       = {Mahrous, Ahmed},
+  title        = {Controlling Collection Leakage to Reveal Genuine Aesthetic Effects in NFT Pricing},
+  howpublished = {Unpublished manuscript},
+  month        = {May},
+  year         = {2025},
+  note         = {Code and data available at \url{https://github.com/AhmedMahrous00/nft_visual_analysis}}
+}
 
 ## Contact
 For inquiries or issues, please contact Ahmed Mahrous at ahmed.mahrous@kaust.edu.sa.
