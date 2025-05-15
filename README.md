@@ -127,7 +127,7 @@ After running all steps, the `outputs/` directory will contain:
 ## 5. Citation
 If you use this code or data in your research, please cite our paper:
 ```
-[Your Full Paper Citation Here - e.g., Author, A., Author, B. (Year). Paper Title. Journal/Conference.]
+[Paper Citation Here - e.g., Author, A., Author, B. (Year). Paper Title. Journal/Conference.]
 ```
 
 ## Contact
