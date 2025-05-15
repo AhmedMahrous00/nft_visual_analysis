@@ -140,6 +140,7 @@ Data & code: https://github.com/AhmedMahrous00/nft_visual_analysis
   month        = {May},
   year         = {2025},
 }
+```
 
 ## Contact
 For inquiries or issues, please contact Ahmed Mahrous at ahmed.mahrous@kaust.edu.sa.
