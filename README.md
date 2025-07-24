@@ -1,4 +1,6 @@
-# Replication Repo: Demystifying the Role of Aesthetics in NFT Pricing: Model, Analysis, and Insights
+![BCCA 2025 Accepted](https://img.shields.io/badge/Conference-BCCA%202025-success)
+# Demystifying the Role of Aesthetics in NFT Pricing: Model, Analysis, and Insights  
+## Replication Code & Data
 
 This repository contains the code to replicate the results presented in the paper "Controlling Collection Leakage to Reveal Genuine Aesthetic Effects in NFT Pricing".
 
