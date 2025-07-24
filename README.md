@@ -83,7 +83,7 @@ Please cite our paper when using this code or data:
 ## License
 
 - **Code:** MIT License (see [LICENSE](LICENSE))  
-- **Data:** CC BY 4.0 (see [LICENSE-DATA](LICENSE-DATA))  
+- **Data on Zenodo (CC BY 4.0):**
 
 ---
 
