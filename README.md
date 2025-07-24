@@ -131,18 +131,18 @@ After running all steps, the `outputs/` directory will contain:
 ## 5. Citation
 If you use this code or data, please cite:
 
-Ahmed Mahrous. 2025. _Controlling Collection Leakage to Reveal Genuine Aesthetic Effects in NFT Pricing_. Unpublished manuscript.  
-Data & code: https://github.com/AhmedMahrous00/nft_visual_analysis
+Ahmed Mahrous and Roberto Di Pietro. 2025. Demystifying the Role of Aesthetics in NFT Pricing: Model, Analysis, and Insights. In Proceedings of the 7th International Conference on Blockchain Computing and Applications (BCCA 2025), Dubrovnik, Croatia.  
+Code & data: https://github.com/AhmedMahrous00/nft_visual_analysis
 
 ```bibtex
-@misc{Mahrous2025Controlling,
-  author       = {Mahrous, Ahmed},
-  title        = {Controlling Collection Leakage to Reveal Genuine Aesthetic Effects in NFT Pricing},
-  howpublished = {Unpublished manuscript},
-  month        = {May},
-  year         = {2025},
+@inproceedings{Mahrous2025Demystifying, 
+  author    = {Mahrous, Ahmed and Di Pietro, Roberto},
+  title     = {Demystifying the Role of Aesthetics in NFT Pricing: Model, Analysis, and Insights},
+  booktitle = {Proceedings of the 7th International Conference on Blockchain Computing and Applications (BCCA)},
+  year      = {2025},
+  location  = {Dubrovnik, Croatia}, 
 }
 ```
 
 ## Contact
-For inquiries or issues, please contact Ahmed Mahrous at ahmed.mahrous@kaust.edu.sa.
+For inquiries, please contact Ahmed Mahrous at ahmed.mahrous@kaust.edu.sa.
