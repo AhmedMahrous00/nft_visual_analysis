@@ -1,4 +1,4 @@
-# Replication Repo: Controlling Collection Leakage to Reveal Genuine Aesthetic Effects in NFT Pricing
+# Replication Repo: Demystifying the Role of Aesthetics in NFT Pricing: Model, Analysis, and Insights
 
 This repository contains the code to replicate the results presented in the paper "Controlling Collection Leakage to Reveal Genuine Aesthetic Effects in NFT Pricing".
 
