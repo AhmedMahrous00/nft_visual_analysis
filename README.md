@@ -2,7 +2,7 @@
 # Demystifying the Role of Aesthetics in NFT Pricing: Model, Analysis, and Insights  
 ## Replication Code & Data
 
-This repository contains the code to replicate the results presented in the paper "Controlling Collection Leakage to Reveal Genuine Aesthetic Effects in NFT Pricing".
+This repository contains the code to replicate the results presented in the paper "Demystifying the Role of Aesthetics in NFT Pricing: Model, Analysis, and Insights".
 
 ## 1. Setup
 
