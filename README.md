@@ -1,4 +1,6 @@
-![BCCA 2025 Accepted](https://img.shields.io/badge/Conference-BCCA%202025-success)
+![BCCA 2025 Accepted](https://img.shields.io/badge/Conference-BCCA%202025-success)  
+[![Code DOI](https://zenodo.org/badge/DOI/XXXXX.svg)](https://doi.org/XXXXX)  
+[![Data DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16414740.svg)](https://doi.org/10.5281/zenodo.16414740)
 # Demystifying the Role of Aesthetics in NFT Pricing: Model, Analysis, and Insights  
 ## Replication Code & Data
 
